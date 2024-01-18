@@ -10,6 +10,8 @@ How to Use:
 
 
 How to run the program
+
+
 Run the Main class to start the banking application.
 Enter your name, and a random account number will be generated.
 Enter the initial balance for the account.
